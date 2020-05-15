@@ -1,7 +1,11 @@
 # Kickstarter-analysis Challenge
 Performing analysis on kickstarter data to uncover trend
 
+# Outcome based on Goals
+ ![goals](OutcomeBasedOnGoals.png)
+ 
+# Outcome based on Launch Date
+![Launch Date](OutcomeBasedOnLaunchDate.png)
 
- !.[goals].(OutcomeBasedOnGoals.png)
-	OutcomeBasedOnLaunchDate.png 	 
-	ParentCategoryOutcomes.png
+# Category Outcomes
+![Parent](ParentCategoryOutcomes.png)
