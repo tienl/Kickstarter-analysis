@@ -1,5 +1,6 @@
 # Kickstarter-analysis Challenge
-Performing analysis on kickstarter data to uncover trend
+Performing analysis on kickstarter data to uncover trend.
+
 In this respository I demonstrate techniques and skills in excel, VBA and data analysis.  Performing a mock analysis of data set to meet some challenge objectives.  
 
 
